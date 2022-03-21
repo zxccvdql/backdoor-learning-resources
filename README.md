@@ -935,6 +935,7 @@ Markdown format:
   
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  [[code]](https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
 
 - PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
